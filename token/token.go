@@ -19,6 +19,9 @@ const (
 	LG = "<"
 	GT = ">"
 
+	EQ     = "=="
+	NOT_EQ = "!="
+
 	// デリミタ
 	COMMA     = ","
 	SEMICOLON = ";"
