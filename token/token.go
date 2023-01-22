@@ -16,7 +16,7 @@ const (
 	ASTERISK = "*"
 	SLASH    = "/"
 
-	LG = "<"
+	LT = "<"
 	GT = ">"
 
 	EQ     = "=="
